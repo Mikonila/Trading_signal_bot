@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  btc_signal_bot:
+    build: .
+    container_name: btc_signal_bot
+    restart: always
+    environment:
+      - TZ=UTC

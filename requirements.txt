@@ -1,0 +1,8 @@
+openai>=1.0.0
+python-binance
+python-telegram-bot==13.15
+pandas
+numpy
+requests
+ta
+urllib3==1.26.15

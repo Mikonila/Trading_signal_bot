@@ -1,0 +1,57 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Директории сборки / дистрибуции
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Логи
+logs/
+*.log
+
+# Настройки IDE/редакторов
+.idea/
+.vscode/
+*.code-workspace
+
+# Разное
+.DS_Store
+Thumbs.db
+*.sqlite3
+
+# Jupyter/кэш инструментов
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.cache/
+
+# Файлы окружения и секреты
+.env
+.env.*
+*.env
+
+# Docker-артефакты (если что-то появится локально)
+docker-data/
+
+
+deploy.tar.gz
+deploy.ps1
+utils/config.py
