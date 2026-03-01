@@ -228,6 +228,3 @@ to generate human-readable trading ideas and send them to Telegram channels.
   TELEGRAM_BOT_TOKEN = "your-telegram-bot-token"
   TELEGRAM_CHAT_ID = "your-main-chat-id"
   TELEGRAM_SCALPING_CHAT_ID = "your-scalping-chat-id"
-
-
-![alt text](image.png)
