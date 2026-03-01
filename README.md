@@ -182,6 +182,9 @@ to generate human-readable trading ideas and send them to Telegram channels.
 
 ---
 
+<img width="646" height="958" alt="изображение" src="https://github.com/user-attachments/assets/ac97e769-1fa2-4c1f-8ec3-588ea6ab2509" />
+
+
 ## Требования
 
 <details>
@@ -207,8 +210,6 @@ to generate human-readable trading ideas and send them to Telegram channels.
 </details>
 
 ---
-
-<img width="646" height="958" alt="изображение" src="https://github.com/user-attachments/assets/ac97e769-1fa2-4c1f-8ec3-588ea6ab2509" />
 
 ## Пример конфигурации
 
