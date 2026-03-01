@@ -13,9 +13,6 @@ This project is an automated BTC/USDT signal bot that combines:
 
 to generate human-readable trading ideas and send them to Telegram channels.
 
-> ⚠️ **Disclaimer:** This project is for educational and experimental use only.  
-> It is **not** financial advice. Use it at your own risk.
-
 ---
 
 ## Features
@@ -116,9 +113,6 @@ to generate human-readable trading ideas and send them to Telegram channels.
 
 чтобы генерировать понятные трейдинговые идеи и отправлять сигналы в Telegram-каналы.
 
-> ⚠️ **Дисклеймер:** проект создан для учебных и экспериментальных целей.  
-> Это **не** является инвестиционной рекомендацией. Используйте на свой страх и риск.
-
 ---
 
 ## Возможности
@@ -213,6 +207,8 @@ to generate human-readable trading ideas and send them to Telegram channels.
 </details>
 
 ---
+
+<img width="646" height="958" alt="изображение" src="https://github.com/user-attachments/assets/ac97e769-1fa2-4c1f-8ec3-588ea6ab2509" />
 
 ## Пример конфигурации
 
